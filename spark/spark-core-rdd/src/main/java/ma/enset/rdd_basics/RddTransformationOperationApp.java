@@ -1,4 +1,4 @@
-package ma.enset;
+package ma.enset.rdd_basics;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
@@ -62,7 +62,7 @@ public class RddTransformationOperationApp {
         System.out.println("\n-------------- RDD7 --------------\n");
         rdd7.foreach(name-> System.out.print(name+", "));
         System.out.println("\n-------------- ---- --------------\n");
-        
+
     }
 
 }
