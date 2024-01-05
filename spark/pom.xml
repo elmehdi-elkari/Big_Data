@@ -6,7 +6,11 @@
 
     <groupId>ma.enset</groupId>
     <artifactId>Spark</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>spark-core-rdd</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
