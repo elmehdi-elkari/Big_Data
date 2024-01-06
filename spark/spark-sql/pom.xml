@@ -18,7 +18,7 @@
     </properties>
 
     <dependencies>
-
+        <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-core -->
         <dependency>
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-core_2.13</artifactId>
@@ -47,6 +47,8 @@
             <scope>provided</scope>
         </dependency>
 
+
     </dependencies>
+
 
 </project>
