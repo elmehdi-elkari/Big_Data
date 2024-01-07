@@ -12,6 +12,8 @@
         <module>spark-core-rdd</module>
         <module>spark-sql</module>
         <module>spark-MLib</module>
+        <module>spark-Streaming-</module>
+        <module>grpc-server-simulator</module>
     </modules>
 
     <properties>
