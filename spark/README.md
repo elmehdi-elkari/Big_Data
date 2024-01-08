@@ -8,7 +8,7 @@ This repository is designed to help you learn Apache Spark through a hands-on ap
 
 - [Spark Core Repository](https://github.com/elmehdi-elkari/Big_Data/tree/main/spark/spark-core-rdd)
 - [Spark SQL Repository](https://github.com/elmehdi-elkari/Big_Data/tree/main/spark/spark-sql)
-- [Spark Streaming Repository](link_to_spark_streaming)
+- [Spark Streaming Repository](https://github.com/elmehdi-elkari/Big_Data/tree/main/spark/spark-Streaming-)
 - [Spark MLlib Repository](https://github.com/elmehdi-elkari/Big_Data/tree/main/spark/spark-MLib)
 
 
