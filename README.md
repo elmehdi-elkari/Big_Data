@@ -1,9 +1,17 @@
 # README for Big Data Repository
 
+![image](https://github.com/elmehdi-elkari/Big_Data/assets/70512375/4379df5e-4db2-43c3-b26b-dc8003921177)
+
 ## Introduction
 
 Welcome to the Big Data repository! This repository contains materials related to Spark and Hadoop, two prominent technologies in the Big Data ecosystem. 
 Whether you are a beginner developer, this repository aims to provide valuable resources and examples to help you understand and work with Big Data technologies.
+
+## Repository Modules
+
+- [Haddop Repository](https://github.com/elmehdi-elkari/Big_Data/Hadoop)
+- [Spark Repository](https://github.com/elmehdi-elkari/Big_Data/tree/main/spark)
+- [Kafka Repository (coming..)](https://github.com/elmehdi-elkari/Big_Data/tree/main/)
 
 ## What is Big Data?
 
@@ -18,6 +26,9 @@ Whether you are a beginner developer, this repository aims to provide valuable r
 4. **Veracity**: Refers to the reliability and quality of the data. Big Data often involves dealing with uncertain or imprecise data.
 
 5. **Value**: Extracting meaningful insights and value from the data is the ultimate goal.
+
+![image](https://github.com/elmehdi-elkari/Big_Data/assets/70512375/b46842ba-2edd-4a19-a158-5df136011e95)
+
 
 ## Learning Big Data 
 
